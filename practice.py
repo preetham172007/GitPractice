@@ -1,3 +1,4 @@
 print("Hello World!")
 x=int(input("Enter Input"))
-print(x)
+for i in range(5):
+	print(x)
